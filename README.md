@@ -1,4 +1,4 @@
-# Pythton_Chess
+# Python_Chess
 A normal game of chess built using python and pygame. I made this for the final project in my Engr 102 class at Texas A&amp;M in my first semester of my Freshman year.
 The game works for 1 or 2 players. 
 
